@@ -4,7 +4,7 @@ on:
 jobs:
   endproject:
     env:
-     appName: "docker-image"
+     appName: "docker-image-Capstone"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
