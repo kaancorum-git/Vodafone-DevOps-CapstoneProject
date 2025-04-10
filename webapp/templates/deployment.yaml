@@ -15,4 +15,4 @@ spec:
   spec:
   containers:
    name: c1
-   image: sonal04/capstoneimage
+   image: kncrm/capstoneimage
